@@ -50,7 +50,7 @@ O projeto foi desenvolvido para colocar em prática conceitos de desenvolvimento
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/FinanceFlow.git
+git clone https://github.com/GustavoMoreiraPinto/FinanceFlow.git
 ```
 
 Entre na pasta:
