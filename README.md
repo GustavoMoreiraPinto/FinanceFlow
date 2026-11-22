@@ -3,6 +3,14 @@
 
 Dashboard de controle financeiro pessoal desenvolvido com React e TypeScript, com foco em organização de receitas, despesas, acompanhamento de resultados e visualização de dados financeiros.
 
+### 🌐 Demonstração online
+
+Acesse o FinanceFlow e experimente o dashboard financeiro diretamente pelo navegador.
+
+**[🚀 Acessar FinanceFlow](https://financeflow-ivory-three.vercel.app/)**
+
+**[💻 Ver código-fonte no GitHub](https://github.com/GustavoMoreiraPinto/FinanceFlow)**
+
 ## 📊 Sobre o projeto
 
 O FinanceFlow é uma aplicação web que permite registrar movimentações financeiras e acompanhar o desempenho mensal e anual por meio de indicadores e gráficos interativos.
